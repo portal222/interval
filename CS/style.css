@@ -39,6 +39,12 @@ body {
 .flex a:hover {
     color: rgb(145, 244, 211);
 }
+footer {
+    padding-top: 30px;
+    color: rgb(159, 159, 159);
+    font-size: 14px;
+    text-align: center;
+}
 
 @media screen and (max-width: 500px) {
     .main {
