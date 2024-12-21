@@ -48,9 +48,9 @@ footer {
 
 @media screen and (max-width: 500px) {
     .main {
-        width: 358px;
+        width: 350px;
         font-size: 20px;
-        padding: 10px;
+        padding: 5px;
     }
     .main .title {
         font-size: 22px;
@@ -63,7 +63,7 @@ footer {
         padding: 5px;
     }
     .flex img {
-        width: 350px;
+        width: 340px;
     }
     .flex a {
         font-size: 18px;
